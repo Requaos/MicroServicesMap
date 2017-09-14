@@ -1,5 +1,5 @@
 # MicroServicesMap
-A map of generic miscro-services descriptions, specifications and needs
+A map of generic micro-services descriptions, specifications and needs
 
 ## Deployment: ##
 #### Backend: ####
